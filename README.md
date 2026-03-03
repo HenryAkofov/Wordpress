@@ -4,7 +4,12 @@
  Es un wordpress del tema de voleyball, el cual explica 3 noticias clave del voleyball, luego hay un mapa el cual indica donde esta publicado la pagina, un traductor,  pagina de contaco y un calendario
 
 # Captures de pantalla del portal.
-
+![](/Captura1.png)
+![](/Captura2.png)
+![](/Captura3.png)
+![](/Captura4.png)
+![](/Captura5.png)
+![](/Captura6.png)
 
 
 # Explicació de les funcionalitats implementades.
